@@ -1,0 +1,20 @@
+h1 {
+    color:blue
+}
+
+.sid{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between ;
+}
+.menu{
+    background-color: chocolate;
+}
+.description{
+ background-color: cornflowerblue;
+text-align: center;
+}
+.main{
+    display :flex;
+    justify-content: space-evenly;
+    }
